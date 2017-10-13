@@ -130,6 +130,7 @@ ulongnum operator+(const ulongnum& n1,const ulongnum& n2){
 ulongnum operator+(const ulongnum& n1,const int& n2){
 //    char *s = n1.num2string(n2);
     ulongnum n3(n1);
+    //sdf
     return n3;
 }
 
